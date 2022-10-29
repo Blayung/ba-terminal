@@ -6,7 +6,7 @@ from time import time
 start=time()
 
 RESOLUTION=120 #50
-GRAYSCALE_CHARS=['#','.']
+GRAYSCALE_CHARS=['#',' ']
 
 try:
     mkdir('ascii')
