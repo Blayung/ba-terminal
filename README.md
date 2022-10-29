@@ -4,4 +4,4 @@ Bad Apple in terminal.
 - youtube-dl `pip install youtube-dl`
 - pillow `pip install pillow`
 - playsound `pip install playsound`
-- pygobjcet `pip install pygobject`
+- pygobject `pip install pygobject`
